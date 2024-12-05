@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 김태상
+- 코더 : 김태성
 - 리뷰어 : 이지선
 
 
