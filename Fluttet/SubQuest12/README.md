@@ -24,7 +24,10 @@
     - 3분 모두 회고 확인되었습니다.
     - ![Image](https://github.com/user-attachments/assets/803e776b-c2df-436a-a8d6-716c788cac28)
 
-
+- [x] ##5. 코드가 간결하고 효율적인가요?
+    - 불필요한 부분을 제외하여 재구성하였습니다.
+    - ![Image](https://github.com/user-attachments/assets/de265b1d-91fb-47d6-8200-4e0769863fed)
+    - ![Image](https://github.com/user-attachments/assets/56971040-27dd-45d4-ac61-a6faa9d77f81)
 
 # 회고(참고 링크 및 코드 개선)
 ```
